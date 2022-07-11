@@ -1,0 +1,307 @@
+header.top-header {
+    background: url(../images/header.jpg);
+}
+
+.logo {
+    background: none;
+}
+
+.navbar {
+    border-bottom: 0.5px solid rgba(255, 255, 255, .5);
+    padding-top: 60px;
+    padding-bottom: 30px;
+
+}
+
+
+
+.navigation {
+    text-align: center;
+    padding-top: 40px;
+    padding-bottom: 80px;
+
+}
+
+.navigation h1 {
+    color: #fff;
+    font-size: 3.3em;
+    padding-top: 40px;
+    font-weight: 100;
+}
+
+.navigation p {
+    color: #fff;
+    font-size: 14px;
+    padding-top: 10px;
+    padding-bottom: 15px;
+}
+
+.navigation a {
+    text-decoration: none;
+    color: #fff;
+    font-weight: 400;
+    font-size: 1.2em;
+    background: url(../images/button-big.webp);
+    padding: 15px 25px;
+    text-align: center;
+    border-radius: 10px;
+
+}
+
+.navigation a:hover {
+    text-decoration: none;
+    color: #fff;
+    font-weight: 400;
+    font-size: 1.2em;
+    background: #db3a20;
+    padding: 15px 25px;
+    text-align: center;
+    border-radius: 10px;
+
+}
+
+.navi {
+    text-align: center;
+    padding-top: 50px;
+    padding-bottom: 20px;
+
+}
+
+.navi h5 {
+    color: #e57c68;
+    font-weight: 100;
+    font-size: 15px;
+}
+
+.navi h1 {
+    color: #808080;
+    font-weight: 100;
+}
+
+.main h3 {
+    color: #db3a20;
+    font-weight: 400;
+}
+
+.main p {
+    color: #b0b0b0;
+    font-size: 15px;
+    font-weight: 450;
+}
+
+.main a {
+    background: url(../images/button.webp);
+    text-decoration: none;
+    padding: 10px 20px;
+    border-radius: 10px;
+    color: #fff;
+    text-align: center;
+    font-size: 10px;
+}
+
+.main a:hover {
+    background: #db3a20;
+    text-decoration: none;
+    padding: 10px 20px;
+    border-radius: 10px;
+    color: #fff;
+    text-align: center;
+    font-size: 10px;
+}
+
+.main {
+    border-top: rgba(201, 197, 197, 0.3) solid 1px;
+    padding-top: 20px;
+    padding-bottom: 100px;
+}
+
+.content h5 {
+    color: #db3a20;
+    font-weight: 200;
+}
+
+.content h1 {
+    color: #808080;
+    font-weight: 100;
+    border-bottom: rgba(201, 197, 197, 0.3) solid 1px;
+    padding-bottom: 25px
+}
+
+.content {
+    background: url(../images/background_01.jpg);
+}
+
+.MainContent {
+    padding-top: 50px;
+    border-top: rgba(201, 197, 197, 0.3) solid 1px;
+    background: url(../images/background_01.jpg);
+
+}
+
+.text p {
+    color: #db3a20;
+    font-weight: 450;
+    font-size: 17px;
+    padding-top: 20px;
+}
+#text-1{
+    color: #b0b0b0;
+    
+}
+
+
+.text b {
+    color: #b0b0b0;
+    font-weight: 450;
+    font-size: 14px;
+}
+
+
+
+.Main-Content1 {
+    text-align: center;
+    padding-top: 70px;
+    border-bottom: rgba(201, 197, 197, 0.3) solid 1px;
+
+}
+
+.Main-Content1 p {
+    color: #e57c68;
+    font-weight: 100;
+    font-size: 15px;
+}
+
+.Main-Content1 h1 {
+    color: #808080;
+    font-weight: 100;
+    padding-bottom: 15px;
+
+}
+
+.view a {
+    color: #db3a20;
+    font-weight: 100;
+    text-decoration: none;
+    font-size: 2em;
+}
+
+
+
+.view .field-content {
+    color: #808080;
+    font-weight: 100;
+    font-size: 14px;
+}
+
+.view .lorem {
+    color: #b0b0b0;
+    font-size: 14px;
+    font-weight: 450;
+    padding-bottom: 25px;
+    padding-top: 15px;
+
+}
+
+.view {
+    padding: 20px 100px;
+    margin-bottom: 50px;
+}
+
+.view .hihi {
+
+    background: url(../images/button.webp);
+    text-decoration: none;
+    padding: 10px 20px;
+    border-radius: 10px;
+    color: #fff;
+    text-align: center;
+    font-size: 10px;
+}
+.haha:hover{
+    color: #b0b0b0;
+}
+
+
+
+.img-btn img {
+    border-radius: 50%;
+}
+
+
+.footer-top-wrapper {
+    background: url(../images/background_02.webp);
+
+}
+
+.footer-top-wrapper h3 {
+    color: #fff;
+    text-align: center;
+    padding: 10px 60px;
+    font-weight: 100;
+    font-size: 20px;
+}
+
+.footer-top-wrapper p {
+    color: #b0b0b0;
+    text-align: center;
+    font-size: 14px;
+    font-weight: 100;
+    padding-bottom: 18px;
+}
+
+.icon {
+    text-align: center;
+    padding-top: 25px;
+    padding-bottom: 18px;
+}
+
+.grid {
+    background: #212020;
+    
+    padding-top: 30px;
+    color: #808080;
+    font-size: 11px;
+    padding-bottom: 35px;
+}
+.grid a{
+    text-decoration: none;
+    color: #808080;
+
+}
+.grid a:hover{
+    color: #fff;
+}
+
+.view .hihi:hover {
+    background: #db3a20;
+    text-decoration: none;
+    padding: 10px 20px;
+    border-radius: 10px;
+    color: #fff;
+    text-align: center;
+    font-size: 10px;
+}
+
+.footer p {
+    background: #040404;
+    padding: 14px;
+    text-align: center;
+    font-size: 12px;
+}
+
+.footer b {
+    color: #636363;
+    font-weight: 100;
+}
+.footer a{
+    text-decoration: none;
+    color: #373737;
+}
+.footer a:hover{
+color: #636363;
+}
+.link img
+{
+    padding: 0 5px;
+    padding-top: 20px;
+}
